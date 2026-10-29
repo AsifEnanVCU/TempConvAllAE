@@ -8,6 +8,15 @@ Six simple functions to convert temperatures between Fahrenheit, Celsius and Kel
 
 I made this package as part of an assignment for the course BIOS 524-001: Biostatistical Computing (Fall 2026)
 
+## Installation
+
+You can install the package from GitHub with:
+
+``` r
+# install.packages("remotes")
+remotes::install_github("AsifEnanVCU/TempConvAllAE")
+```
+
 ## Example
 
 ``` r
